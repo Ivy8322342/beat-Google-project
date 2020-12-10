@@ -9,7 +9,7 @@ public class Main {
 		double res = getBMI(data);
 		String dia = getDiagnosis(res);
 		System.out.println(dia + " BMI: " + res); 
-		//abc
+		//
                
 	}
 	
